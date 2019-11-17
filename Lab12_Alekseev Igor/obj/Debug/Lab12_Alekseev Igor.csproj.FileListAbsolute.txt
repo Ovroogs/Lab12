@@ -1,0 +1,9 @@
+D:\Комп\Desktop\03.01\Задания\Lab12_Alekseev Igor\Lab12_Alekseev Igor\bin\Debug\Lab12_Alekseev Igor.exe.config
+D:\Комп\Desktop\03.01\Задания\Lab12_Alekseev Igor\Lab12_Alekseev Igor\bin\Debug\Lab12_Alekseev Igor.exe
+D:\Комп\Desktop\03.01\Задания\Lab12_Alekseev Igor\Lab12_Alekseev Igor\bin\Debug\Lab12_Alekseev Igor.pdb
+D:\Комп\Desktop\03.01\Задания\Lab12_Alekseev Igor\Lab12_Alekseev Igor\obj\Debug\Lab12_Alekseev Igor.csprojAssemblyReference.cache
+D:\Комп\Desktop\03.01\Задания\Lab12_Alekseev Igor\Lab12_Alekseev Igor\obj\Debug\Lab12_Alekseev_Igor.Form1.resources
+D:\Комп\Desktop\03.01\Задания\Lab12_Alekseev Igor\Lab12_Alekseev Igor\obj\Debug\Lab12_Alekseev_Igor.Properties.Resources.resources
+D:\Комп\Desktop\03.01\Задания\Lab12_Alekseev Igor\Lab12_Alekseev Igor\obj\Debug\Lab12_Alekseev Igor.csproj.GenerateResource.cache
+D:\Комп\Desktop\03.01\Задания\Lab12_Alekseev Igor\Lab12_Alekseev Igor\obj\Debug\Lab12_Alekseev Igor.exe
+D:\Комп\Desktop\03.01\Задания\Lab12_Alekseev Igor\Lab12_Alekseev Igor\obj\Debug\Lab12_Alekseev Igor.pdb
